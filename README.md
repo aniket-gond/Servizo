@@ -69,11 +69,19 @@ run on your local computer environment
 
 Here are some screenshots of the **Servizo** platform:
 
-![Home Page Screenshot](assests/screenshot1.png)
+![Home Page Screenshot](assests/screenshot11.jpg)
 
-![Service List Screenshot](assets/screenshot2.png)
+![Service List Screenshot](assets/screenshot21.jpg)
 
-![Map View Screenshot](assets/screenshot3.png)
+![Map View Screenshot](assets/screenshot31.jpg)
 
-![Profile View Screenshot](assests/screenshot4.png)
+![Profile View Screenshot](assests/screenshot41.jpg)
+
+![Map View Screenshot](assets/screenshot5.jpg)
+![Map View Screenshot](assets/screenshot6.jpg)
+![Map View Screenshot](assets/screenshot7.jpg)
+![Map View Screenshot](assets/screenshot8.jpg)
+![Map View Screenshot](assets/screenshot9.jpg)
+
+
 
