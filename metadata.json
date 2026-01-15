@@ -1,0 +1,7 @@
+{
+  "name": "Servizo - Advanced Discovery",
+  "description": "A high-performance, modern local service discovery platform with real-time filtering and seamless list/map view switching. Designed for discovery of plumbers, electricians, and more with a sleek dark-themed interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
