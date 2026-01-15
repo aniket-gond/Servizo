@@ -1,5 +1,5 @@
 # Servizo - Local Service Discovery Web Platform
-SITE LIVE AT ---> [servizosite.netlify.app](https://www.servizo.netlify.app)
+SITE LIVE AT ---> [servizosite.netlify.app](https://www.servizosite.netlify.app)
 
 ## Project Overview
 **Servizo** is a modern web platform designed to help users easily discover, evaluate, and choose local service providers such as electricians, plumbers, tutors, and mechanics. The platform features an intuitive, responsive UI, with a **list and map view toggle** that allows users to switch between viewing services in a card-based list format or on an interactive map. The project utilizes **advanced search filters** to help users find providers based on category, location, and availability.
